@@ -1,5 +1,4 @@
 #include "namespace.h"
-#include <iostream>
 
 isa::Arithmetique::Arithmetique(){};
 
